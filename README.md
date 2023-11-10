@@ -1,6 +1,14 @@
-# amygdalaGO-BOLT
+# AmygdalaGO-BOLT
 
 This repo is a PyTorch-based framework for amygdala segmentation, whose goal is to provide an easy-to-use framework for academic researchers to develop and evaluate deep learning models. It provides fair evaluation and comparison on multiple center datasets. 
+
+### Features
+
+- Cover the whole process of model design, including dataset processing, model definition, model configuration, training and evaluation.
+- Provide SOTA models as baseline for comparison. Model definition, training and evaluation code are simple with no complex code encapsulation.
+- Provide models, losses, metrics, augmentation and etc. for 3D data, multiple centers and multiple tasks.
+- Optimized training techniques for SOTA performance.
+
 
 ### Features
 
